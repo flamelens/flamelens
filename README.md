@@ -6,7 +6,7 @@ Creative social media agency helping brands grow through engaging content, smart
 📈 Brand Growth  
 
 **Connect with us:**  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/flamelens.media/)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/flamelens.media)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/company/flamelens)  
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@flamelens)  
+<a href="https://www.instagram.com/flamelens.media/"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" height="25" /></a>
+<a href="https://www.facebook.com/flamelens.media"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" alt="Facebook" height="25" /></a>
+<a href="https://www.linkedin.com/company/flamelens"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="25" /></a>
+<a href="https://www.tiktok.com/@flamelens"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg" alt="TikTok" height="25" /></a>
