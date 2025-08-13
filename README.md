@@ -1,6 +1,6 @@
 ---
 
-# FlameLens
+# FlameLens Media
 
 Creative social media agency helping brands grow through engaging content, smart strategy, and a personal touch.
 
@@ -8,6 +8,6 @@ Creative social media agency helping brands grow through engaging content, smart
 🎨 Content Creation
 📈 Brand Growth
 
-🌐 [Website](https://www.flamelens.com) | 📧 [Email](contact@flamelens.com) 
+🌐 [Website](https://www.flamelens.com)  |  📧 [Email](contact@flamelens.com) 
 
 ---
