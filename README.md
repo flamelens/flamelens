@@ -1,16 +1,13 @@
-## Hi there 👋
+---
 
-<!--
-**flamelens/flamelens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# FlameLens
 
-Here are some ideas to get you started:
+Creative social media agency helping brands grow through engaging content, smart strategy, and a personal touch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Social Media Management
+🎨 Content Creation
+📈 Brand Growth
+
+🌐 [Website]([your-link](https://www.flamelens.com/) | 📧 [Email](contact@flamelens.com) 
+
+---
